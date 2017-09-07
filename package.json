@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishvadeep93/Social-Dashboard.git"
+  },
+  "author": "vishvadeep",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vishvadeep93/Social-Dashboard/issues"
+  },
+  "homepage": "https://github.com/Vishvadeep93/Social-Dashboard#readme"
+}
